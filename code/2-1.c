@@ -2,7 +2,7 @@
 
 void increment(int x) {
     ++x;
-printf("%d\n", x);
+    printf("%d\n", x);
 }
 
 int main() {
